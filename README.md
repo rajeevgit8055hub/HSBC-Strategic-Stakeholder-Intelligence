@@ -1,4 +1,4 @@
-# 🏢 Stakeholder Intelligence & Strategic Performance Dashboard
+# 🏦 Stakeholder Intelligence & Strategic Performance
 
 ## 🏢 Organization: HSBC  
 ### 🔒 Watermark - HSBC branding for compliance and authenticity.
@@ -270,7 +270,7 @@ This protects sensitive data and promotes responsible reporting.
 
 ## 🖼️ Dashboard Snapshots
 
-> _Sample snapshot below:_
+> _Final BI Dashboard Preview:_
 
 ### 📊 Stakeholder Dashboard – Full View
 

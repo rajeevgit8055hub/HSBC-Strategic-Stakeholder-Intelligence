@@ -3,7 +3,6 @@
 ## 🏢 Organization: HSBC  
 ### 🔒 Watermark - HSBC branding for compliance and authenticity.
 
----
 ## 🏦 Why HSBC?
 
 **HSBC** is a global leader in banking and financial services, managing diverse portfolios across regions and stakeholder categories.  

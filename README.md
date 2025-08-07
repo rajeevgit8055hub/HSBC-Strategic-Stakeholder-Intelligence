@@ -1,7 +1,7 @@
 # 🏦 Stakeholder Intelligence & Strategic Performance
 
 ## 🏢 Organization: HSBC  
-### 🔒 Watermark - HSBC branding for compliance and authenticity.
+## 🔒 Watermark - HSBC branding for compliance and authenticity.
 
 ## 🏦 Why HSBC?
 

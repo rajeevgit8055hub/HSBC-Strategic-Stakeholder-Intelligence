@@ -280,4 +280,5 @@ This protects sensitive data and promotes responsible reporting.
 > _Visual preview of project file or folder structure:_
 
 ![Stakeholder Dashboard Project Preview](Strategic%20Stakeholder%20Intelligence1.png)
+![Stakeholder Dashboard Project Preview](Strategic%20Stakeholder%20Intelligence.jpg)
 

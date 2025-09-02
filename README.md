@@ -3,27 +3,54 @@
 ## 🏢 Organization: HSBC  
 ## 🔒 Watermark - HSBC branding for compliance and authenticity.
 
-## 🏦 Why HSBC?
+---
+
+## 📑 Table of Contents
+
+- <a href="#why-hsbc">🏦 Why HSBC?</a>  
+- <a href="#project-overview">🧩 Project Overview</a>  
+- <a href="#project-context">🏢 Project Context</a>  
+- <a href="#key-considerations">🧠 Key Considerations</a>  
+- <a href="#project-objectives">🎯 Project Objectives</a>  
+- <a href="#target-audience">👥 Target Audience</a>  
+- <a href="#business-problems">🛑 Business Problems Addressed</a>  
+- <a href="#key-features">💡 Key Features & Visual Insights</a>  
+- <a href="#kpi">🎯 Key Performance Indicators (KPIs)</a>  
+- <a href="#filters-insights">🧮 Filters for Custom Insights</a>  
+- <a href="#interactivity">🧠 Interactivity Highlights</a>  
+- <a href="#user-access">🔐 Role-Based User Access</a> 
+- <a href="#usage-instructions">📚 Usage Instructions</a>  
+- <a href="#project-lifecycle">🔄 Project Lifecycle & Workflow</a>  
+- <a href="#business-takeaways">📈 Key Business Takeaways</a>  
+- <a href="#tools-technologies">🧰 Tools & Technologies Used</a>  
+- <a href="#strategic-recommendations">🚀 Strategic Recommendations</a>   
+- <a href="#future-scope">🔮 Future Scope</a>  
+- <a href="#contact">📬 Connect with Me</a>  
+- <a href="#dashboard-snapshots">🖼️ Dashboard Snapshots</a>  
+
+---
+
+## <span id="hsbc">🏦 Why HSBC?</span>  
 
 **HSBC** is a global leader in banking and financial services, managing diverse portfolios across regions and stakeholder categories.  
 This dashboard is inspired by **HSBC’s enterprise-level performance monitoring** needs in insurance and wealth sectors. It reflects **real-world KPIs** like premiums, equity value, and AUM across tenure and geography. Built for **strategic decision-makers**, it aligns with HSBC’s scale, governance, and data-driven operations. The project simulates a **secure, role-based BI environment** suitable for global financial institutions.
 
 ---
 
-## 🧩 Project Overview
+## <span id="project-overview">🧩 Project Overview</span>  
 
 This Tableau-based business intelligence solution is crafted to offer a **strategic, real-time overview** of how various stakeholders and insurers perform across key financial metrics. It integrates **KPI monitoring, visual analytics, and stakeholder behavior tracking** into one unified dashboard, streamlining the data storytelling process for business leaders, analysts, and operations managers.
 
 ---
 
-## 🏢 Project Context
+## <span id="project-context">🏢 Project Context</span>  
 
 The financial and insurance sector often faces challenges in managing high-volume, multidimensional data. This dashboard addresses the critical need for **centralized visibility and intelligent decision-making**.
 It empowers strategic stakeholders with interactive insights into premiums, assets, and performance KPIs. By consolidating complex data into a single dynamic view, it enhances clarity, speed, and execution of decisions.
 
 ---
 
-### 🧠 Key Considerations:
+## <span id="key-considerations">🧠 Key Considerations</span>  
 
 - **High Volume of Data** across regions, roles, asset types, and time periods.
 - **Fragmented Reporting Systems** which made comparisons time-consuming.
@@ -32,7 +59,7 @@ It empowers strategic stakeholders with interactive insights into premiums, asse
 
 ---
 
-## 🎯 Project Objectives
+## <span id="project-objectives">🎯 Project Objectives</span>  
 
 This solution was designed to fulfill the following business goals:
 
@@ -50,7 +77,7 @@ This solution was designed to fulfill the following business goals:
 
 ---
 
-## 👥 Target Audience
+## <span id="target-audience">👥 Target Audience</span>  
 
 The dashboard is designed to meet the needs of the following user groups:
 
@@ -68,7 +95,7 @@ The dashboard is designed to meet the needs of the following user groups:
 
 ---
 
-## 🛑 Business Problems Addressed
+## <span id="business-problems">🛑 Business Problems Addressed</span>  
 
 The dashboard directly solves multiple business challenges:
 
@@ -88,7 +115,7 @@ The dashboard directly solves multiple business challenges:
 
 ---
 
-## 💡 Key Features & Visual Insights
+## <span id="key-features">💡 Key Features & Visual Insights</span>  
 
 ### 📊 Visuals Included
 
@@ -109,7 +136,7 @@ The dashboard directly solves multiple business challenges:
 
 ---
 
-## 🎯 Key Performance Indicators (KPIs)
+## <span id="kpi">🎯 Key Performance Indicators (KPIs)</span>  
 
 The dashboard includes real-time KPI cards that update dynamically:
 
@@ -127,7 +154,7 @@ The dashboard includes real-time KPI cards that update dynamically:
 
 ---
 
-## 🧮 Filters for Custom Insights
+## <span id="filters-insights">🧮 Filters for Custom Insights</span>  
 
 The dashboard includes highly granular filters to refine and isolate views:
 
@@ -150,7 +177,7 @@ The dashboard includes highly granular filters to refine and isolate views:
 
 ---
 
-## 🧠 Interactivity Highlights
+## <span id="interactivity">🧠 Interactivity Highlights</span>  
 
 ### ⚡ Real-Time Updates
 - KPIs and charts respond instantly to filter selection.
@@ -163,7 +190,7 @@ The dashboard includes highly granular filters to refine and isolate views:
 
 ---
 
-## 🔐 Role-Based User Access
+## <span id="user-access">🔐 Role-Based User Access</span>  
 
 To ensure data integrity, views are controlled based on user type:
 
@@ -177,7 +204,7 @@ This protects sensitive data and promotes responsible reporting.
 
 ---
 
-## 📚 Usage Instructions
+## <span id="usage-instructions">📚 Usage Instructions</span>  
 
 ### 👣 Navigating the Dashboard
 
@@ -192,7 +219,7 @@ This protects sensitive data and promotes responsible reporting.
 
 ---
 
-## 🔄 Project Lifecycle & Workflow
+## <span id="project-lifecycle">🔄 Project Lifecycle & Workflow</span>  
 
 ### 📥 1. Data Collection
 - Aggregated from internal business systems in Excel/CSV format.
@@ -211,7 +238,7 @@ This protects sensitive data and promotes responsible reporting.
 
 ---
 
-## 📈 Key Business Takeaways
+## <span id="business-takeaways">📈 Key Business Takeaways</span>  
 
 ### 🏙️ City-Based Profitability
 - **Ahmedabad and Jamshedpur** show consistently high profits in long-tenure policies.
@@ -230,7 +257,7 @@ This protects sensitive data and promotes responsible reporting.
 
 ---
 
-## 🧰 Tools & Technologies Used
+## <span id="tools-technologies">🧰 Tools & Technologies Used</span>  
 
 | Tool / Technology       | Purpose                                |
 |-------------------------|----------------------------------------|
@@ -240,8 +267,8 @@ This protects sensitive data and promotes responsible reporting.
 | Role-Based Access Tools | Secure access to data based on role    |
 
 ---
-
-## 🚀 Strategic Recommendations
+    
+## <span id="strategic-recommendations">🚀 Strategic Recommendations</span>  
 
 ### 📍 Focus Cities
 - Target **Jamshedpur** and **Ahmedabad** for long-tenure policy success.
@@ -257,7 +284,7 @@ This protects sensitive data and promotes responsible reporting.
 
 ---
 
-## 🔮 Future Scope
+## <span id="future-scope">🔮 Future Scope</span>  
 
 - 📡 Live data integration via real-time connectors.
 - 📱 Mobile-friendly layout for sales and executive access.
@@ -267,7 +294,18 @@ This protects sensitive data and promotes responsible reporting.
 
 ---
 
-## 🖼️ Dashboard Snapshots
+## <span id="contact">📬 Connect with Me</span>  
+
+- 📧 **Email**: [rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)  
+- 💻 **GitHub**: [github.com/rajeevgit8055hub](https://github.com/rajeevgit8055hub)  
+- 🔗 **LinkedIn**: [linkedin.com/in/rajeev-tiwari123](https://www.linkedin.com/in/rajeev-tiwari123)  
+- 🌐 **Website**: [rajeevgit8055hub.github.io/rajeevtiwari.github.io](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)  
+
+🤝 *Thanks for visiting my profile!*  
+
+---
+
+## <span id="dashboard-snapshots">🖼️ Dashboard Snapshots</span>  
 
 > _Final BI Dashboard Preview:_
 

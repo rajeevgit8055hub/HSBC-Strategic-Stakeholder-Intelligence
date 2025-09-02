@@ -30,7 +30,7 @@
 
 ---
 
-## <span id="hsbc">🏦 Why HSBC?</span>  
+## <span id="why-hsbc">🏦 Why HSBC?</span>  
 
 **HSBC** is a global leader in banking and financial services, managing diverse portfolios across regions and stakeholder categories.  
 This dashboard is inspired by **HSBC’s enterprise-level performance monitoring** needs in insurance and wealth sectors. It reflects **real-world KPIs** like premiums, equity value, and AUM across tenure and geography. Built for **strategic decision-makers**, it aligns with HSBC’s scale, governance, and data-driven operations. The project simulates a **secure, role-based BI environment** suitable for global financial institutions.

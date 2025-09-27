@@ -313,7 +313,7 @@ This protects sensitive data and promotes responsible reporting.
 
 ![Stakeholder Dashboard Preview](Strategic%20Stakeholder%20Intelligence.png)
 
-## 🗂️ Project Preview
+## 🗂️ Project Overview
 
 > _Visual preview of project file or folder structure:_
 
